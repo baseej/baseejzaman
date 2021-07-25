@@ -28,7 +28,10 @@ grid-template-columns:1fr 1fr ;
 @viewport{
     zoom: 1.0 ;
     width: extend-to-zoom;
-       } 
+} 
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0 ;
 .container .card:hover{
     height:2000x;
 }
