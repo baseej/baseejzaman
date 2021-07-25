@@ -32,6 +32,8 @@ grid-template-columns:1fr 1fr ;
 @-ms-viewport{
     width: extend-to-zoom;
     zoom: 1.0 ;
+} 
+
 .container .card:hover{
     height:2000x;
 }
