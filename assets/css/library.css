@@ -27,7 +27,7 @@ grid-template-columns:1fr 1fr ;
 }
 @viewport{
     zoom: 1.0 ;
-    width: extend-to-zoom
+    width: extend-to-zoom;
        } 
 .container .card:hover{
     height:2000x;
